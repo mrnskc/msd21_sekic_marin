@@ -38,3 +38,11 @@ Just contact me if you have any feedback.
 ## Exercises
 
 - [Exercise 1](exercise1.md)
+
+# Exercise 2
+
+[My git repository](https://github.com/mrnskc/msd21_sekic_marin.git)
+[FH-Joanneum MSD](https://www.fh-joanneum.at/mobile-software-development/bachelor/)
+
+
+- [Exercise 2](exercise2.md)
