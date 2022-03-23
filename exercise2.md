@@ -2,7 +2,7 @@
 
 ## git config
 This command sets up different settings/configurations - here is a list (git config --list):\
-![Image could not be loaded](/media/git config --list.png)
+![Image could not be loaded](media/git config --list.png)
 
 For this exercise we used the two following commands:\
 ![Image could not be loaded](/media/git config.jpg)
@@ -13,7 +13,7 @@ Creates a subdirectory in the respository.
 
 ## git commit
 This command saves the current version of the project.\
-![Image could not be loaded](/media/git commit.jpg)
+![Image could not be loaded](media/git commit.jpg)
 
 ## git status
 Shows the current status of the working directory. Here we can see which changes are pending (staging area).\
