@@ -2,21 +2,11 @@
 
 ## git config
 This command sets up different settings/configurations - here is a list (git config --list):\
-[Image could not be loaded](media/git-config---list.png)
 
 <img src="media/git-config---list.png" alt="alt">
 
 For this exercise we used the two following commands:\
 ![Image could not be loaded](media/git-config.jpg)\
-It allows us to change the global user.name and user.email.
-
-This command sets up different settings/configurations - here is a list (git config --list):\
-[Image could not be loaded](/media/git-config---list.png)
-
-<img src="/media/git-config---list.png" alt="alt">
-
-For this exercise we used the two following commands:\
-![Image could not be loaded](/media/git-config.jpg)\
 It allows us to change the global user.name and user.email.
 
 ## git init
@@ -31,7 +21,7 @@ Shows the current status of the working directory. Here we can see which changes
 ![Image could not be loaded](media/git-status.jpg)
 
 ## git add
-Adds files to the staging area.
+Adds files to the staging area and can then subsequently pushed to the respository (git push -> see further).
 
 ## git log
 Shows a history of the changes of a respository.\
