@@ -56,6 +56,18 @@ public class TestKonfig {
         Assertions.assertEquals(test,calc.multiply(2,2));
     }
 
-    
+    @Test
+    public void testFaculty1(){
+        Assertions.assertEquals(5,calc.faculty(5));
+    }
 
+    @Test
+    public void testFaculty2(){
+        Assertions.assertEquals(-1,calc.faculty(-1));
+    }
+
+    @Test
+    public void testFaculty3(){
+        Assertions.assertEquals(10,calc.faculty(10));
+    }
 }
