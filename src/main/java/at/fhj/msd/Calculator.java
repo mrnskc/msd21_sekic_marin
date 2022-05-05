@@ -22,7 +22,7 @@ public class Calculator {
             return 0;
         }
         if (number == 1){
-            return 0;
+            return 1;
         }else {
             return faculty(number-1)*number;
         }
