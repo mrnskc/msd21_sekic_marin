@@ -1,5 +1,5 @@
-*html
-*pdf
-*.idea/
-*target/
-*.DS_Store
+*.html
+*.pdf
+.idea/
+target/
+*.log
