@@ -1,5 +1,7 @@
-*html
-*pdf
+*.html
+*.pdf
 *.idea/
 *target/
-*.DS_Store
+*.log
+log4j2.xml
+.DS_Store

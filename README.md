@@ -47,3 +47,7 @@ Just contact me if you have any feedback.
 [My git repository](https://github.com/mrnskc/msd21_sekic_marin.git)
 \
 [FH-Joanneum MSD](https://www.fh-joanneum.at/mobile-software-development/bachelor/)
+
+# Templates
+
+- [log4j2.xml](src/main/resources/log4j2.xml.template)
